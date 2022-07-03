@@ -1,0 +1,12 @@
+body{
+    font-size: 60px;
+}
+
+section{
+    display: flex;
+}
+.contact-button{
+    background-color: chartreuse
+    padding: 10px 40px;
+
+}
